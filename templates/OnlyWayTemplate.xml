@@ -1,0 +1,8 @@
+<templateSet group="OnlyWayTemplate">
+  <template name="cmt" value="/**&#10;  * @description $desc$&#10;  * @author $user$&#10;  * @time $date$ $time$&#10;  */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="user" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

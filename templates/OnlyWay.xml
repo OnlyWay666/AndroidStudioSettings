@@ -1,0 +1,9 @@
+<templateSet group="OnlyWay">
+  <template name="cdoc" value="/**&#10; * @author OnlyWay&#10; * Create at $date$&#10; * Description&#10; */" shortcut="TAB" description="class doc" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

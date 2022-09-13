@@ -1,0 +1,14 @@
+<templateSet group="Android">
+  <template name="toast" value="Toast.makeText(this,&quot;$text$&quot;,Toast.LENGTH_SHORT).show()" description="Toast" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if($true$){&#10;    &#10;}" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="true" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

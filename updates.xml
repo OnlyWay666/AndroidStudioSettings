@@ -1,0 +1,16 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="141.2456560" />
+      <item value="system-images;android-19;google_apis;armeabi-v7a#26" />
+      <item value="system-images;android-19;google_apis;x86#26" />
+      <item value="system-images;android-23;google_apis;x86#19" />
+      <item value="system-images;android-23;google_apis;x86_64#19" />
+      <item value="212.5712.43.2112.8815526" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-212.5712.43.2112.8815526" />
+    <option name="LAST_TIME_CHECKED" value="1663033041060" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
+  </component>
+</application>
