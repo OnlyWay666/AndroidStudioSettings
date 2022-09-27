@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="com.onlyway.fakeleiphone" />
     <option name="nonFavorites">
       <list>
+        <option value="com.onlyway.fakeleiphone" />
         <option value="package:mine" />
       </list>
     </option>
